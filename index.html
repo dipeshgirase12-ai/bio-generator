@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Instagram Bio Generator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>🔥 AI Instagram Bio Generator</h1>
+    <p>Create stylish bios instantly</p>
+
+    <input type="text" id="name" placeholder="Enter your name">
+    <input type="text" id="profession" placeholder="Enter your profession">
+
+    <select id="category">
+      <option value="professional">Professional</option>
+      <option value="attitude">Attitude</option>
+      <option value="coder">Coder</option>
+      <option value="rajput">Rajput</option>
+      <option value="love">Love</option>
+    </select>
+
+    <button onclick="generateBio()">Generate Bio</button>
+
+    <textarea id="result" readonly></textarea>
+    <button onclick="copyBio()">Copy Bio</button>
+  </div>
+
+<script src="script.js"></script>
+</body>
+</html>
