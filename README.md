@@ -20,7 +20,7 @@ A modern AI-powered Instagram Bio Generator with stylish UI and premium-ready ar
 
 ## 🌐 Live Demo
 
-Coming soon...
+https://bio-generator-3zppew9p2-dipeshgirase12-ais-projects.vercel.app/
 
 ## 🚀 Future Upgrades
 
